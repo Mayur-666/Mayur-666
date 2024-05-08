@@ -130,7 +130,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mayur-666/Mayur-666/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mayur-666/Mayur-666/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
