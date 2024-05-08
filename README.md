@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack.<br>👯 I’m looking to collaborate on Full Stack Projects.<br>💬 Ask me about Redux Toolkit, React, Express, JWT Auth, Node, Axios, TheatreJS, ThreeJS.
 
+[![An image of @mayur666's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayur666)](https://holopin.io/@mayur666)
 
 # 💻 Tech Stack:
 
@@ -125,15 +126,17 @@ Here are some ideas to get you started:
 <h2>Profile Views</h2>
 
 <div align="center">
+  
   <img src="https://profile-counter.glitch.me/Mayur-666/count.svg?"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mayur-666/Mayur-666/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Mayur-666/Mayur-666/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
+  
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
