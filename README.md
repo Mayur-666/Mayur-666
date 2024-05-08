@@ -132,7 +132,10 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://github.com/Mayur-666/Mayur-666/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Profile Eater :)"  />
+<!--<img src="https://github.com/Mayur-666/Mayur-666/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Profile Eater :)"  /> -->
+![Snake animation](https://github.com/Mayur-666/Mayur-666/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ###
 
