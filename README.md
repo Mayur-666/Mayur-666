@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2 align="center">A Full Stack Developer. Expertise in MERN Stack.</h2>
 
 # 💫 About Me:
-🔭 Currently work as SDE intern at LearnDuke. <br/> 👯 I’m looking to collaborate on Full Stack Projects.<br>💬 Ask me about Redux Toolkit, React, Express, JWT Auth, Node, Axios, TheatreJS, ThreeJS.
+👯 I’m looking to collaborate on Full Stack Projects.<br>💬 Ask me about Redux Toolkit, React, Express, JWT Auth, Node, Axios, TheatreJS, ThreeJS.
 
 [![An image of @mayur666's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayur666)](https://holopin.io/@mayur666)
 
