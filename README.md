@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <h2 align="center">A Full Stack Developer. Expertise in MERN Stack.</h2>
 
 # 💫 About Me:
-🔭 SDE Fellow at Headstater AI <br>
+🖥️ Trainee Engineer at Ascentt<br>
+🔭 Ex-SDE Fellow at Headstater AI <br>
 👯 I’m looking to collaborate on Full Stack Projects.<br>💬 Ask me about Redux Toolkit, React, Express, JWT Auth, Node, Axios, TheatreJS, ThreeJS.<br/>
 PORTFOLIO :- https://mayur-portfolio-headstarter.vercel.app/
 
