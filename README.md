@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:09090b,45:172554,100:312e81&text=MAYUR%20SONARE&fontColor=ffffff&fontSize=58&fontAlignY=43&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20AI%20BUILDER%20%E2%80%A2%20PRODUCT%20ENGINEER&descSize=13&descAlignY=63&animation=fadeIn" width="100%" alt="Mayur Sonare — Software Engineer, AI Builder, Product Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:09090b,45:172554,100:312e81&text=MAYUR%20SONARE&fontColor=ffffff&fontSize=58&fontAlignY=43&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20AI%20BUILDER%20%E2%80%A2%20PRODUCT%20ENGINEER&descSize=13&descAlignY=63&animation=fadeIn" width="100%" alt="Mayur Sonare - Software Engineer, AI Builder, Product Engineer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=I+turn+complex+ideas+into+useful+software.;Building+AI+systems%2C+agents+and+products.;From+the+first+prototype+to+production." alt="Animated introduction" />
 
@@ -19,14 +19,14 @@ I build full-stack products and intelligent systems, with a growing focus on age
 
 </div>
 
-## 01 — What I work on
+## 01 - What I work on
 
 - **AI engineering:** agentic workflows, multi-agent systems, RAG, tool calling and AI application architecture.
 - **Full-stack engineering:** React, Next.js, TypeScript, Node.js and Python.
 - **Systems thinking:** APIs, data flows, integrations, observability and production-minded architecture.
 - **Product building:** taking ideas from prototype to usable software.
 
-## 02 — Selected builds
+## 02 - Selected builds
 
 <table>
   <tr>
@@ -59,7 +59,7 @@ I build full-stack products and intelligent systems, with a growing focus on age
   </tr>
 </table>
 
-## 03 — Engineering in practice
+## 03 - Engineering in practice
 
 **At Ascentt**
 
@@ -72,7 +72,7 @@ Work spanning AI systems, internal platforms and interactive web experiences:
 
 *Project scope and implementation details are intentionally kept high-level here. See my portfolio for the latest project descriptions.*
 
-## 04 — Stack & tools
+## 04 - Stack & tools
 
 <div align="center">
 
@@ -117,7 +117,7 @@ Work spanning AI systems, internal platforms and interactive web experiences:
 
 </div>
 
-## 05 — The evolution
+## 05 - The evolution
 
 <div align="center">
   <h3>From interfaces to intelligent systems.</h3>
@@ -151,7 +151,7 @@ Work spanning AI systems, internal platforms and interactive web experiences:
   <b>THE NEXT CHAPTER: BUILDING WHAT'S USEFUL.</b>
 </div>
 
-## 06 — GitHub telemetry
+## 06 - GitHub telemetry
 
 <div align="center">
 
@@ -170,7 +170,7 @@ Work spanning AI systems, internal platforms and interactive web experiences:
 
 <sub>Stats and activity graphics are served by third-party services. If one is temporarily unavailable or rate-limited, the rest of the profile will still render.</sub>
 
-## 07 — Contribution matrix
+## 07 - Contribution matrix
 
 <div align="center">
 
@@ -178,16 +178,16 @@ Work spanning AI systems, internal platforms and interactive web experiences:
 
 </div>
 
-## 08 — Beyond the code
+## 08 - Beyond the code
 
 Hackathons, experiments and learning-by-building are a big part of how I work.
 
-- Smart India Hackathon — National Finalist.
-- UDAAN — First place in both phases.
-- Snapdragon Multiverse Hackathon — Recall.
-- Bolna Symphony Buildathon — voice-first AI experimentation.
-- HackerRank Orchestrate — #417 / 4,094.
-- B.Tech Computer Science & IT — 9.71 / 10 CGPA.
+- Smart India Hackathon - National Finalist.
+- UDAAN - First place in both phases.
+- Snapdragon Multiverse Hackathon - Recall.
+- Bolna Symphony Buildathon - voice-first AI experimentation.
+- HackerRank Orchestrate - #417 / 4,094.
+- B.Tech Computer Science & IT - 9.71 / 10 CGPA.
 
 ---
 
