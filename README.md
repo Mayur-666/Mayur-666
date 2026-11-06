@@ -1,147 +1,205 @@
-<!---
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi👋 , I'm Mayur Sonare.</h1>
-
-###
-# 💫 About Me:
-🖥️ Software Engineer at Ascentt<br>
-🔭 Ex-SDE Fellow at Headstater AI <br>
-👯 I’m looking to collaborate on Full Stack Projects.<br>💬 Ask me about Nextjs, Redux Saga, Redux Toolkit, Reactjs, Expressjs, Nodejs, TheatreJS, ThreeJS.<br/>
-PORTFOLIO :- [https://mayur-sonare.vercel.app/](https://mayur-sonare.vercel.app/)
-
-
-[![An image of @mayur666's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayur666)](https://holopin.io/@mayur666)
-
-# 💻 Tech Stack:
-
-<br>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/d3dotjs/F9A03C" height="30" alt="d3js logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/heroku/430098" height="30" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mui/007FFF" height="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/replit/F26207" height="30" alt="replit logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/threedotjs/ffffff" height="30" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim logo"  />
-</div>
-<br>
 
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:09090b,45:172554,100:312e81&text=MAYUR%20SONARE&fontColor=ffffff&fontSize=58&fontAlignY=43&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20AI%20BUILDER%20%E2%80%A2%20PRODUCT%20ENGINEER&descSize=13&descAlignY=63&animation=fadeIn" width="100%" alt="Mayur Sonare — Software Engineer, AI Builder, Product Engineer" />
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayur-666&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayur-666&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mayur-666&theme=dark&hide_border=false&margin-w=16)<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=I+turn+complex+ideas+into+useful+software.;Building+AI+systems%2C+agents+and+products.;From+the+first+prototype+to+production." alt="Animated introduction" />
+
+<a href="https://mayursonare.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/Mayur-666"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
 </div>
 
-##
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mayur-666&theme=radical&no-frame=false&no-bg=true&margin-w=16)
-
-
-  <h2>🔝 Top Contributed Repo</h1> 
-<div align="center">
-  
-  ![](https://github-contributor-stats.vercel.app/api?username=Mayur-666&limit=5&theme=dark&combine_all_yearly_contributions=true)
-  
-  </div>
-  
-  <h2> ✍️ Random Dev Quote</h1>
-  <div align="center">
-
-
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-  </div>
-<!---
-## 🌐 Socials:
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-</div>
-<!---
-
-###
-
-<h2>Profile Views</h2>
+---
 
 <div align="center">
-  
-  <img src="https://profile-counter.glitch.me/Mayur-666/count.svg?"  />
+
+**SOFTWARE ENGINEER @ ASCENTT**
+
+I build full-stack products and intelligent systems, with a growing focus on agentic AI, orchestration, retrieval and developer infrastructure.
+
 </div>
 
-###
+## 01 — What I work on
 
-<!--<img src="https://github.com/Mayur-666/Mayur-666/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Profile Eater :)"  /> -->
-![Snake animation](https://github.com/Mayur-666/Mayur-666/blob/output/github-contribution-grid-snake-dark.svg)
+- **AI engineering:** agentic workflows, multi-agent systems, RAG, tool calling and AI application architecture.
+- **Full-stack engineering:** React, Next.js, TypeScript, Node.js and Python.
+- **Systems thinking:** APIs, data flows, integrations, observability and production-minded architecture.
+- **Product building:** taking ideas from prototype to usable software.
 
+## 02 — Selected builds
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Recall</h3>
+      <p>A voice-first, distributed AI memory companion designed to capture conversations and make personal context searchable across devices.</p>
+      <p><sub>ON-DEVICE AI · VOICE · MEMORY · HYBRID RETRIEVAL</sub></p>
+      <a href="https://mayursonare.vercel.app/">Project details ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Conquest</h3>
+      <p>An AI interview-preparation experience built around realistic interview practice and structured preparation.</p>
+      <p><sub>AI APPLICATIONS · FULL STACK · INTERVIEW WORKFLOWS</sub></p>
+      <a href="https://mayursonare.vercel.app/">Project details ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Secure-X</h3>
+      <p>An AI-focused safety and incident-detection project.</p>
+      <p><sub>AI · DETECTION · ALERTING</sub></p>
+      <a href="https://mayursonare.vercel.app/">Project details ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💧 Water Wise Wiki</h3>
+      <p>A collaborative knowledge project focused on water management and accessible information.</p>
+      <p><sub>KNOWLEDGE SHARING · WEB APPLICATION</sub></p>
+      <a href="https://mayursonare.vercel.app/">Project details ↗</a>
+    </td>
+  </tr>
+</table>
 
-###
+## 03 — Engineering in practice
 
-  
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+**At Ascentt**
 
-###
+Work spanning AI systems, internal platforms and interactive web experiences:
 
+- Multi-agent orchestration involving specialist agents and tools.
+- Internal platform engineering for business users.
+- Interactive 3D experiences using web technologies.
+- AI workflow observability and tracing.
+
+*Project scope and implementation details are intentionally kept high-level here. See my portfolio for the latest project descriptions.*
+
+## 04 — Stack & tools
+
+<div align="center">
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java" alt="JavaScript, TypeScript, Python and Java" />
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,threejs,vite" alt="React, Next.js, Redux, Tailwind, Three.js and Vite" />
+
+**BACKEND & DATA**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,postgres,mongodb,mysql,firebase" alt="Node.js, Express, NestJS, FastAPI, PostgreSQL, MongoDB, MySQL and Firebase" />
+
+**ENGINEERING**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,postman,vscode" alt="Git, GitHub, Docker, Linux, Bash, Postman and VS Code" />
+
+</div>
+
+<br/>
+
+<h3 align="center">AI ENGINEERING ECOSYSTEM</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-334155?style=for-the-badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/RAG-312E81?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hybrid_Search-312E81?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embeddings-312E81?style=for-the-badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Langfuse-14532D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ONNX_Runtime-14532D?style=for-the-badge" />
+
+</div>
+
+## 05 — The evolution
+
+<div align="center">
+  <h3>From interfaces to intelligent systems.</h3>
+  <p><i>The through-line in my work is moving from making software look and feel right to making systems think, connect and do useful work.</i></p>
+</div>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <p><sub>CHAPTER 01 / CRAFT</sub></p>
+      <h3>Build the interface.</h3>
+      <p>Learning how people interact with software. Building responsive interfaces, full-stack applications and immersive web experiences.</p>
+      <p><sub>REACT · NEXT.JS · TYPESCRIPT · THREE.JS</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <p><sub>CHAPTER 02 / SYSTEMS</sub></p>
+      <h3>Connect the pieces.</h3>
+      <p>Moving into APIs, data models, integrations and production workflows. Thinking beyond individual features toward complete systems.</p>
+      <p><sub>BACKEND · DATABASES · CLOUD · ARCHITECTURE</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <p><sub>CHAPTER 03 / INTELLIGENCE</sub></p>
+      <h3>Make software capable.</h3>
+      <p>Exploring AI agents, retrieval, memory and orchestration to build software that can reason over context and take useful actions.</p>
+      <p><sub>AGENTS · RAG · MCP · AI INFRASTRUCTURE</sub></p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <b>THE NEXT CHAPTER: BUILDING WHAT'S USEFUL.</b>
+</div>
+
+## 06 — GitHub telemetry
+
+<div align="center">
+
+<a href="https://github.com/Mayur-666">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mayur-666&show_icons=true&hide_border=true&bg_color=09090b&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" alt="Mayur's GitHub statistics" />
+</a>
+<a href="https://github.com/Mayur-666">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-666&layout=compact&hide_border=true&bg_color=09090b&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Most used programming languages" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayur-666&bg_color=09090b&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+
+</div>
+
+<sub>Stats and activity graphics are served by third-party services. If one is temporarily unavailable or rate-limited, the rest of the profile will still render.</sub>
+
+## 07 — Contribution matrix
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mayur-666/Mayur-666/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
+
+</div>
+
+## 08 — Beyond the code
+
+Hackathons, experiments and learning-by-building are a big part of how I work.
+
+- Smart India Hackathon — National Finalist.
+- UDAAN — First place in both phases.
+- Snapdragon Multiverse Hackathon — Recall.
+- Bolna Symphony Buildathon — voice-first AI experimentation.
+- HackerRank Orchestrate — #417 / 4,094.
+- B.Tech Computer Science & IT — 9.71 / 10 CGPA.
+
+---
+
+<div align="center">
+
+### Have an interesting problem? Let's build.
+
+<a href="https://mayursonare.vercel.app/">PORTFOLIO</a> &nbsp;·&nbsp;
+<a href="https://github.com/Mayur-666">GITHUB</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:09090b,50:172554,100:312e81" width="100%" alt="" />
+
+<sub>DESIGNED TO BUILD · MADE WITH CURIOSITY</sub>
+
+</div>
