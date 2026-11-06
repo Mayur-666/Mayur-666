@@ -174,7 +174,11 @@ Work spanning AI systems, internal platforms and interactive web experiences:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mayur-666/Mayur-666/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mayur-666/Mayur-666/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mayur-666/Mayur-666/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Mayur-666/Mayur-666/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake" />
+</picture>
 
 </div>
 
@@ -195,8 +199,8 @@ Hackathons, experiments and learning-by-building are a big part of how I work.
 
 ### Have an interesting problem? Let's build.
 
-<a href="https://mayursonare.vercel.app/">PORTFOLIO</a> &nbsp;·&nbsp;
-<a href="https://github.com/Mayur-666">GITHUB</a>
+<a href="https://mayursonare.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" /></a>
+<a href="https://github.com/Mayur-666"><img src="https://img.shields.io/badge/GITHUB-CONNECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:09090b,50:172554,100:312e81" width="100%" alt="" />
 
