@@ -155,20 +155,17 @@ Work spanning AI systems, internal platforms and interactive web experiences:
 
 <div align="center">
 
-<a href="https://github.com/Mayur-666">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mayur-666&show_icons=true&hide_border=true&bg_color=09090b&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" alt="Mayur's GitHub statistics" />
-</a>
-<a href="https://github.com/Mayur-666">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-666&layout=compact&hide_border=true&bg_color=09090b&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Most used programming languages" />
-</a>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayur-666&bg_color=09090b&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<p>
+  <a href="https://github.com/Mayur-666?tab=repositories">Browse repositories</a>
+  ·
+  <a href="https://github.com/Mayur-666?tab=overview">View profile activity</a>
+  ·
+  <a href="https://github.com/Mayur-666?tab=stars">View starred projects</a>
+</p>
 
 </div>
 
-<sub>Stats and activity graphics are served by third-party services. If one is temporarily unavailable or rate-limited, the rest of the profile will still render.</sub>
+<sub>Explore the live profile for current repository, activity and contribution details.</sub>
 
 ## 07 - Contribution matrix
 
